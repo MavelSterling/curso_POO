@@ -115,3 +115,9 @@ Los Objetos son aquellos que tienen propiedades y comportamientos, también ser�
 Las **Propiedades** también pueden llamarse atributos y estos también serán sustantivos. Algunos atributos o propiedades son nombre, tamaño, forma, estado, etc. Son todas las características del objeto.
 
 Los **Comportamientos** serán todas las operaciones que el objeto puede hacer, suelen ser verbos o sustantivos y verbo. Algunos ejemplos pueden ser que el usuario pueda hacer login y logout.
+
+Una **Clase** es el modelo por el cual nuestros objetos se van a construir y nos van a permitir generar más objetos.
+
+Analizamos Objetos para crear ****Clases** . Las** **Clases** son los modelos sobres los cuales construiremos nuestros objetos.
+
+**Abstracción** es cuando separamos los datos de un objeto para generar un molde.
