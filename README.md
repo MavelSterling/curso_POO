@@ -24,4 +24,28 @@ Y 4 Pilares:
 * Encapsulamiento -> Protege la información de manipulaciones no autorizadas
 * Abstracción -> Es el proceso de definir los atributos y los métdos de una clase.
 * Herencia -> Las clases hijo heredan atributos y métodos de las clases padre
-* Polimorfismo -> Da la misma orden a varios objetos para respondan de diferentes
+* Polimorfismo -> Da la misma orden a varios objetos para respondan de diferentes maneras.
+
+Visual Studio Code, el editor de código multiplataforma de Microsoft, es uno de los preferidos por muchos desarrolladores.
+
+Visual Studio permite a los desarrolladores crear sitios y aplicaciones web, así como servicios web en cualquier entorno compatible con la plataforma .NET.
+
+Algunos de los lenguajes de programación Orientados a Objetos son:
+
+* **Java** :
+  – Orientado a Objetos naturalmente
+  – Es muy utilizado en Android
+  – Y es usado del lado del servidor o Server Side
+* **PHP**
+  – Lenguaje interpretado
+  – Pensado para la Web
+* **Python**
+  – Diseñado para ser fácil de usar
+  – Múltiples usos: Web, Server Side, Análisis de Datos, Machine Learning, etc
+* **Javascript**
+  – Lenguaje interpretado
+  – Orientado a Objetos pero basado en prototipos
+  – Pensado para la Web
+* C#
+* Ruby
+* Kotlin
