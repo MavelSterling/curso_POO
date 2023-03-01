@@ -49,3 +49,27 @@ Algunos de los lenguajes de programación Orientados a Objetos son:
 * C#
 * Ruby
 * Kotlin
+
+## Diagramas de Modelado
+
+ **OMT** : Object Modeling Techniques. Es una metodología para el análisis orientado a objetos.
+
+**UML** : Unified Modeling Language o Lenguaje de Modelado Unificado. Tomó las bases y técnicas de OMT unificándolas. Tenemos más opciones de diagramas como lo son Clases, Casos de Uso, Objetos, Actividades, Iteración, Estados, Implementación.
+
+## OMT
+
+Esta técnica nos propone es que una vez que tenemos nuestro análisis, ya tenemos identificado objetos, sus atributos, sus métodos y ya le hemos puesto nombre a cada objeto, la técnica nos dice que debemos empezar a plasmar cada objeto en un recuadro, y pongamos los atributos y métodos en el recuadro, y con una serie de conectores vamos a definir una relación que tiene un objeto con otro.
+
+## UML
+
+Con está técnica podemos tener más opciones de diagramas y podemos modelar:
+
+* Clases
+* Casos de uso
+* Objetos
+* Actividades
+* Iteración
+* Estados
+* Implementación
+
+Una vez ya tengamos un análisis con nuestros objetos, atributos y métodos vamos terminar plasmándolo en algún diagrama.
