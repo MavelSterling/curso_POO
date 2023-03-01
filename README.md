@@ -124,7 +124,7 @@ Analizamos Objetos para crear ****Clases** . Las** **Clases** son los modelos so
 
 La **modularidad** va muy relacionada con las clases y es un principio de la Programación Orientado a Objetos y va de la mano con el Diseño Modular que significa dividir un sistema en partes pequeñas y estas serán nuestros módulos pudiendo funcionar de manera independiente.
 
-La** ****modularidad** de nuestro código nos va a permitir
+La **modularidad** de nuestro código nos va a permitir
 
 * Reutilizar
 * Evitar colapsos
