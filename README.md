@@ -150,7 +150,7 @@ Una buena práctica es separando las clases en archivos diferentes.
 
 ---------+
 
-# Java
+###  Java
 
 class Person {
 	String name = “”;
@@ -158,7 +158,7 @@ class Person {
 
  }
 
-# Python
+### Python
 
 class Person:
 	name = “”;
@@ -166,7 +166,16 @@ class Person:
     def walk():
 
 
-# JavaScript
+### JavaScript
 
     Person.prototype.walk = function (){
 }
+
+
+### PHP
+
+class Person {
+	$name = “”;
+	function walk() { }
+
+    }
