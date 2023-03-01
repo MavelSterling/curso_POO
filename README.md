@@ -152,11 +152,19 @@ Una buena práctica es separando las clases en archivos diferentes.
 
 ###  Java
 
-`class Person {
+```
+class Person {
 	String name = “”;
 	void walk() { }
 
- }`
+ }
+```
+
+class Person {
+	String name = “”;
+	void walk() { }
+
+ }
 
 ### Python
 
