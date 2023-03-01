@@ -133,3 +133,40 @@ La **modularidad** de nuestro código nos va a permitir
 * Resolución rápida de problemas
 
 Una buena práctica es separando las clases en archivos diferentes.
+
+## Ejemplo de UML
+
+---------+
+
+| Person |
+
+---------+
+
+| name  |
+
+---------+
+
+| walk()  |
+
+---------+
+
+# Java
+
+class Person {
+	String name = “”;
+	void walk() { }
+
+ }
+
+# Python
+
+class Person:
+	name = “”;
+
+    def walk():
+
+
+# JavaScript
+
+    Person.prototype.walk = function (){
+}
