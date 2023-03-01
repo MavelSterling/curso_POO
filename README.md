@@ -78,7 +78,7 @@ UML significa Unified Modeling Language el cual es un lenguaje estándar de mode
 
 Esto significa que tendremos una manera gráfica de representar una situación, justo como hemos venido viendo. A continuación te voy a presentar los elementos que puedes utilizar para hacer estas representaciones.
 
-Las clases se representan: Nombre de la clase, Atributos y métodos.
+Las clases se representan: Nombre de la clase, Atributos y Operación.
 
 Estos son los niveles de **visibilidad** que puedes tener:
 
