@@ -165,12 +165,10 @@ class Person:
 
     def walk():
 
-
 ### JavaScript
 
     Person.prototype.walk = function (){
 }
-
 
 ### PHP
 
