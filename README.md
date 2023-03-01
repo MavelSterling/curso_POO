@@ -160,28 +160,28 @@ class Person {
  }
 ```
 
-class Person {
-	String name = “”;
-	void walk() { }
-
- }
-
 ### Python
 
+```
 class Person:
 	name = “”;
 
     def walk():
+```
 
 ### JavaScript
 
-    Person.prototype.walk = function (){
+```
+Person.prototype.walk = function (){
 }
+```
 
 ### PHP
 
+```
 class Person {
 	$name = “”;
 	function walk() { }
 
     }
+```
