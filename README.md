@@ -121,3 +121,15 @@ Una **Clase** es el modelo por el cual nuestros objetos se van a construir y nos
 Analizamos Objetos para crear ****Clases** . Las** **Clases** son los modelos sobres los cuales construiremos nuestros objetos.
 
 **Abstracción** es cuando separamos los datos de un objeto para generar un molde.
+
+La **modularidad** va muy relacionada con las clases y es un principio de la Programación Orientado a Objetos y va de la mano con el Diseño Modular que significa dividir un sistema en partes pequeñas y estas serán nuestros módulos pudiendo funcionar de manera independiente.
+
+La** ****modularidad** de nuestro código nos va a permitir
+
+* Reutilizar
+* Evitar colapsos
+* Hacer nuestro código más mantenible
+* Legibilidad
+* Resolución rápida de problemas
+
+Una buena práctica es separando las clases en archivos diferentes.
