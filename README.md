@@ -185,3 +185,5 @@ class Person {
 
     }
 ```
+
+La ****herencia** nos permite crear nuevas clases a partir de otras, se basa en modelos y conceptos de la vida real. También tenemos una jerarquía de** **padre e hijo**.
