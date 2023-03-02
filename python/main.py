@@ -6,3 +6,8 @@ if __name__ == "__main__":
     car.license = "AMS234"
     car.driver = "Android"
     print(vars(car))
+    
+    car2 = Car()
+    car2.license = "QWE567"
+    car2.driver = "Apple"
+    print(vars(car2))
