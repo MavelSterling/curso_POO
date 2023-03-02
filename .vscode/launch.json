@@ -2,6 +2,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Java.Main",
+        "projectName": "curso_POO_platzi_44dd2149"
+      },
+      {
+        "type": "java",
         "name": "CodeLens (Launch) - Main",
         "request": "launch",
         "mainClass": "Main"
