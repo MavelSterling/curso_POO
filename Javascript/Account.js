@@ -1,8 +1,9 @@
 function Account(name,document){
     this.id;
-    this.name;
+    this.name = name;
     this.email;
     this.password;
-    this.document;
+    this.document= document;
+    
 }
 
