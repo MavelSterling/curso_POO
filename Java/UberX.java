@@ -5,12 +5,17 @@ public class UberX extends Car{
     String brand;
     String model;
 
-    // Constructor de los parametros de la clase Car (licence, driver)
-    public UberX(String license, Account driver, String brand, String model) {
+    public UberX(String license, Account driver, String brand, String model){
         super(license, driver);
-        this.brand= brand; // atributo de la clase hija
-        this.model= model;
-        //TODO Auto-generated constructor stub
+        this.brand = brand;
+        this.model = model;
+
+    }
+
+    @Override
+    void printDataCar() {
+        super.printDataCar();
+        System.out.println("Modelo: " + model + " Brand: " + brand);
     }
     
     
